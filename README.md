@@ -12,4 +12,4 @@ Reference-style:
 markdown
 ![GitHub Logo](images/logo.png)
 
-![Imgur Image](http://i.imgur.com/zTONrOD)
+![Imgur Image] http://i.imgur.com/zTONrOD?
